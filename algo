@@ -1,0 +1,27 @@
+algo add
+
+FUNCTION sum
+
+    
+BEGIN
+VAR
+sum,i,j:INTEGER
+A=[2,7,6,9,5]
+read('A')
+B=[4,3,6,9,5,7]
+read('B')
+
+for i from 0 to n-1
+for j from 0 to n-1
+do
+BEGIN
+write A()
+write B()
+C[i][j]=0
+end for
+end for
+ 
+END
+
+
+
